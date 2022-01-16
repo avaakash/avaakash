@@ -21,6 +21,13 @@
 
 ### This week activity
 <!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 51 mins    ██████████░░░░░░░░░░░░░░░   40.38 % 
+EJS          1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   29.13 % 
+Python       53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Markdown     25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Go           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- <p><img style="padding-bottom:20px; padding-top:10px;"
