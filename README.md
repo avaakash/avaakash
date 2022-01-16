@@ -3,8 +3,8 @@
 <p></p>
 
 
-![GitHub followers](https://img.shields.io/github/followers/avaakash?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/_avaakash_?label=_avaakash_&style=social)
+<a href="http://github.com/avaakash"><img src="https://img.shields.io/github/followers/avaakash?style=social&label=Follow"></a>
+<a href="https://twitter.com/_avaakash_"> <img src="https://img.shields.io/twitter/follow/_avaakash_?label=Follow&style=social"></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=avaakash&left_color=green&right_color=red)
 
 <h3 align="left">Connect with me:</h3>
