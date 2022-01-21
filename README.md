@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Akash, a software engineer who loves developing backend technologies
+#### I am Akash, a software engineer who loves developing backend technologies.
 <p></p>
 
 
