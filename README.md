@@ -22,6 +22,8 @@
 ### This week activity
 <!--START_SECTION:waka-->
 ```text
+Total: 2 hrs 10 mins
+
 Go       2 hrs 2 mins    ███████████████████████▒░   93.56 % 
 Docker   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 Bash     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
