@@ -22,9 +22,7 @@
 ### This week activity
 <!--START_SECTION:waka-->
 ```text
-Total: 36 mins
-
-Go   36 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
