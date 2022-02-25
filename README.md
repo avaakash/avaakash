@@ -22,7 +22,7 @@
 ### This week activity
 <!--START_SECTION:waka-->
 ```text
-C++   55 mins         ████████████████████████▓   98.44 % 
+C++   55 mins         ████████████████████████▓   98.00 % 
 ```
 <!--END_SECTION:waka-->
 
