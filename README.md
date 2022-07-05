@@ -23,9 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-CSV      18 mins         ████████▓░░░░░░░░░░░░░░░░   34.56 %
-JSON     18 mins         ████████▓░░░░░░░░░░░░░░░░   34.10 %
-Python   17 mins         ████████░░░░░░░░░░░░░░░░░   31.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
