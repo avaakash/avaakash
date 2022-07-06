@@ -23,7 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go           39 mins         ████████████████████░░░░░   80.20 %
+YAML         7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
