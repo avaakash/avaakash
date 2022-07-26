@@ -23,12 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           9 hrs 17 mins   ████████████████▓░░░░░░░░   67.07 %
-GraphQL      3 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
-YAML         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
