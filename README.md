@@ -23,7 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go           11 hrs 23 mins  ████████████████████░░░░░   80.50 %
+GraphQL      2 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Makefile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Docker       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
