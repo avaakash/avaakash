@@ -22,7 +22,7 @@
 ### This week activity
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python   6 hrs 11 mins   ███████████░░░░░░░░░░░░░░   44.28 %
 YAML     3 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.75 %
 HTML     3 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
