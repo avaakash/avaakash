@@ -23,7 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+sh       1 hr 21 mins    ██████████████████▒░░░░░░   73.29 %
+YAML     22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+Bash     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Smarty   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
