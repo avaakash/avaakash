@@ -23,10 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           21 mins         █████████████████████░░░░   84.19 %
-Other        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
